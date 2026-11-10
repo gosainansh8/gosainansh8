@@ -1,10 +1,10 @@
-## 👋 Ansh Gosain
+## Ansh Gosain
 
 **Affiliations:** 🎓 University of Pennsylvania — Neuroscience & Computer Science, C/O 2028
 
 ---
 
-### 📄 Abstract
+### Abstract
 
 Most biological signal arrives incomplete or in fragments. I build computational models
 that work anyway. Currently, I am building agent-based simulations of the opioid overdose
@@ -12,7 +12,7 @@ crisis in Kensington. More broadly, I am interested in learning-based models of 
 behavioral data 🧠. This is the kind that turn noisy recordings, scans, and behavior into something
 you can act on, whether that ends in a mechanism, a diagnosis, or a restored function.
 
-### 🔬 Methods
+### Methods
 
 ```python
 class Ansh:
@@ -26,18 +26,18 @@ class Ansh:
         return model(integrate(signals)) if signals else instrument(problem)
 ```
 
-### 🧪 Experiments
+### Experiments
 
 | Project | Question | Status |
 |---|---|---|
-| 💉 Kensington ABM | Can we simulate overdose dynamics well enough to test interventions? | 🟡 In progress |
-| 🧲 TMS/fMRI Pipelines | Can stimulation and imaging be aligned cleanly enough to trust the readout? | ✅ Complete |
+| Kensington ABM | Can we simulate overdose dynamics well enough to test interventions? | 🟡 In progress |
+| TMS/fMRI Pipelines | Can stimulation and imaging be aligned cleanly enough to trust the readout? | ✅ Complete |
 
-### 💬 Discussion
+### Discussion
 
 Interested in where life sciences, technology, and healthcare meet. More specifically, the
 parts of healthcare that fail for engineering reasons rather than scientific ones.
 
-### 📫 Correspondence
+### Correspondence
 
 [agosain@sas.upenn.edu](mailto:agosain@sas.upenn.edu) · [LinkedIn](https://www.linkedin.com/in/ansh-gosain-88467522a/)
