@@ -1,6 +1,6 @@
 ## Ansh Gosain
 
-**Affiliations:** 🎓 University of Pennsylvania — Neuroscience & Computer Science, C/O 2028
+**Affiliations:** University of Pennsylvania — Neuroscience & Computer Science, C/O 2028
 
 ---
 
