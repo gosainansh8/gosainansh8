@@ -17,7 +17,8 @@ you can act on, whether that ends in a mechanism, a diagnosis, or a restored fun
 ```python
 class Ansh:
     languages = ["Python", "C", "OCaml", "R", "Java"]
-    tools     = ["PyTorch", "NumPy", "pandas", "Git", "MATLAB"]
+    tools     = ["PyTorch", "NumPy", "pandas", "Git", "MATLAB", "GCP (Cloud Run, Cloud SQL)",
+                 "Vertex AI", "Postgres + pgvector", "FastAPI", "Docker"]
     domains   = ["computational neuroscience", "machine learning", "neural decoding"]
 
     def approach(self, problem):
@@ -30,6 +31,7 @@ class Ansh:
 
 | Project | Question | Status |
 |---|---|---|
+| [NeuroScope](https://github.com/gosainansh8/neuroscope) · [live demo](https://neuroscope-api-561220657386.us-central1.run.app) | Can an AI agent answer drug-development questions with every claim traced to a public record? | 🟢 Live |
 | Kensington ABM | Can we simulate overdose dynamics well enough to test interventions? | 🟡 In progress |
 | TMS/fMRI Pipelines | Can stimulation and imaging be aligned cleanly enough to trust the readout? | ✅ Complete |
 
